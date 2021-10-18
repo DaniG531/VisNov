@@ -1,0 +1,11 @@
+{
+    "inicio":{
+        "imagen": "./imagenes/Gameover.jpg", 
+        "texto1": "- Decides enviar el progreso de lo que llevas de los trabajos tal cual.",
+        "texto2": "- A duras penas consigues pasar con el trabajo incompleto, pero eso no quita que tu calificación no se vea afectada por ello.",
+        "texto3": "- ",
+        "texto4": "- ",
+        "texto5": "- Tecla Derecha) Finalizar Partida.",
+        "texto6": "- Tecla Izquierda) Finalizar Partida."
+    }
+}

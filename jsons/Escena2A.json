@@ -1,0 +1,11 @@
+{
+    "inicio":{
+        "imagen": "./imagenes/Study.jpg", 
+        "texto1": "- Te preparas e inicias a hacer los deberes.",
+        "texto2": "- Duras alrededor de 3 horas haciendo todos los deberes y tareas pendientes .",
+        "texto3": "- Al terminar tienes tiempo libre y tienes la opcion de quedarte en casa o salir con algun amigo.",
+        "texto4": "- ",
+        "texto5": "- Tecla Derecha) Quedarse en Casa.",
+        "texto6": "- Tecla Izquierda) Salir a con un amigo."
+    }
+}

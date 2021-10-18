@@ -1,0 +1,11 @@
+{
+    "inicio":{
+        "imagen": "./imagenes/NightFriend.jpg", 
+        "texto1": "- Ambos van a la playa para evitar al monton de mosquitos en el museo.",
+        "texto2": "- Ya en la playa encuentran una banca donde se sientan y pasan gran parte del dia hablado hasta que anochese.",
+        "texto3": "- Ambos tuvieron un dia divertido a pesar de la situacion en el museo.",
+        "texto4": "- ",
+        "texto5": "- Tecla Derecha) Finalizar Partida.",
+        "texto6": "- Tecla Izquierda) Finalizar Partida."
+    }
+}

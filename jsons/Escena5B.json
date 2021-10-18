@@ -1,0 +1,11 @@
+{
+    "inicio":{
+        "imagen": "./imagenes/NightEvent.jpg", 
+        "texto1": "- Te vistes para salir y vas caminando a la plaza del pueblo.",
+        "texto2": "- Te encuentras a los vecinos reunidos ya que habrá un concierto acustico por un artista local.",
+        "texto3": "- Disfrutas del evento junto a tus amigos y vecinos del pueblo en una noche estrellada.",
+        "texto4": "- ",
+        "texto5": "- Tecla Derecha) Finalizar Partida.",
+        "texto6": "- Tecla Izquierda) Finalizar Partida."
+    }
+}

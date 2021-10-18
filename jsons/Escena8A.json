@@ -1,0 +1,11 @@
+{
+    "inicio":{
+        "imagen": "./imagenes/SadTruth.jpg", 
+        "texto1": "- Despreocupadamente llegas a tu casa y te vas a la cama.",
+        "texto2": "- Despiertas y recuerdas que no hiciste las tareas y trabajos pendientes.",
+        "texto3": "- No haces otra cosa más que aceptar el destino y pensar en que hay que hacer las tareas a tiempo.",
+        "texto4": "- ",
+        "texto5": "- Tecla Derecha) Finalizar Partida.",
+        "texto6": "- Tecla Izquierda) Finalizar Partida."
+    }
+}

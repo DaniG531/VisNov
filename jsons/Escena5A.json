@@ -1,0 +1,11 @@
+{
+    "inicio":{
+        "imagen": "./imagenes/Sleep.jpg", 
+        "texto1": "- Despues de un dia productivo y satisfactorio te vas a la cama a dormir.",
+        "texto2": "- Antes de dormir refleccionas acerca de tus acciones en el dia y piensas en que haras el dia de man~ana.",
+        "texto3": "- ",
+        "texto4": "- ",
+        "texto5": "- Tecla Derecha) Finalizar Partida.",
+        "texto6": "- Tecla Izquierda) Finalizar Partida."
+    }
+}

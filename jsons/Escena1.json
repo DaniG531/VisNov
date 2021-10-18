@@ -1,0 +1,11 @@
+{
+    "inicio":{
+        "imagen": "./imagenes/Room.jpeg", 
+        "texto1": "- Despiertas una man~ana en tu cuarto.",
+        "texto2": "- Debes hacer tus deberes pero piensas que podrias salir un rato a caminar.",
+        "texto3": "- ",
+        "texto4": "- ",
+        "texto5": "- Tecla Derecha) Hacer Deberes.",
+        "texto6": "- Tecla Izquierda) Salir a Caminar."
+    }
+}

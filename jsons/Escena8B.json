@@ -1,0 +1,11 @@
+{
+    "inicio":{
+        "imagen": "./imagenes/Coffee.jpg", 
+        "texto1": "- Llegas a casa sabiendo que es muy tarde y ocuapas hacer tus trabajos y tareas y no tienes nmucho tiempo.",
+        "texto2": "- Te preparas un cafe cargado y en cuestion de una hora terminas todos los pendientes,",
+        "texto3": "- pero tu cuerpo esta tan lleno de cafeina que no pudiste dormir nada en el lapso de la noche",
+        "texto4": "- ",
+        "texto5": "- Tecla Derecha) Finalizar Partida.",
+        "texto6": "- Tecla Izquierda) Finalizar Partida."
+    }
+}

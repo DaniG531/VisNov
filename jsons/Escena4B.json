@@ -1,0 +1,11 @@
+{
+    "inicio":{
+        "imagen": "./imagenes/Night.jpg", 
+        "texto1": "- Decides que aun puedes salir un rato y esperas a que anochesca para apreciar el cielo nocturno.",
+        "texto2": "- Logras ver una luna menguante y muchas estrellas dando una vista hermosa.",
+        "texto3": "- .",
+        "texto4": "- ",
+        "texto5": "- Tecla Derecha) Volver a casa y Dormir.",
+        "texto6": "- Tecla Izquierda) Volver a casa y terminar trabajos."
+    }
+}

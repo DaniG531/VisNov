@@ -1,0 +1,11 @@
+{
+    "inicio":{
+        "imagen": "./imagenes/Parque.jpg", 
+        "texto1": "- Ambos van al parque donde hay una cancha de futbol.",
+        "texto2": "- Se divierten bastante jugando futbol entre los dos hasta que gastan todas sus energias.",
+        "texto3": "- Despues de divertirse bastante coinciden en que ambos están demaciado cansados y se despiden para despues ir a sus casas.",
+        "texto4": "- ",
+        "texto5": "- Tecla Derecha) Finalizar Partida.",
+        "texto6": "- Tecla Izquierda) Finalizar Partida."
+    }
+}
