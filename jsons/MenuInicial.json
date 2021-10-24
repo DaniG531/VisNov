@@ -1,11 +1,21 @@
 {
-    "inicio":{
-        "imagen": "./imagenes/Butterfly.jpg", 
-        "texto1": "- Este es el inicio de la aventura",
-        "texto2": "- Presiona la Tecla Derecha o Tecla Izquierda para continuar la aventura de acuerdo a tus elecciones.",
-        "texto3": "- ",
-        "texto4": "- ",
-        "texto5": "- ",
-        "texto6": "- Presiona Espacio para continuar."
-    }
+    "imagen": "./imagenes/Butterfly.jpg", 
+    "textos": [
+        "- Este es el inicio de la aventura",
+        "- Presiona la Tecla Derecha o Tecla Izquierda para continuar la aventura de acuerdo a tus elecciones.",
+        "- ",
+        "- ",
+        "- ",
+        "- "
+    ],
+    "opciones": [
+        {
+            "node":"./jsons/Escena1.json",
+            "texto": "- Presiona cualquier tecla para continuar."
+        },
+        {
+            "node": "./jsons/Escena1.json",
+            "texto": "- Presiona cualquier tecla para continuar."
+        }
+    ]
 }

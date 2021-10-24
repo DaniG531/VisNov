@@ -1,11 +1,21 @@
 {
-    "inicio":{
-        "imagen": "./imagenes/PC.jpg", 
-        "texto1": "- Despues de disfrutar de un largo rato con tu amigo decides volver a tu casa a terminar tus tareas.",
-        "texto2": "- Lo malo es que pasaste demaciado tiempo fuera y ya no tienes tiempo ni energia para trabajar.",
-        "texto3": "- ",
-        "texto4": "- ",
-        "texto5": "- Tecla Derecha) Terminar Trabajo.",
-        "texto6": "- Tecla Izquierda) Dejar de trabajar y enviar el progreso hecho."
-    }
+    "imagen": "./imagenes/PC.jpg", 
+    "textos": [
+        "- Despues de disfrutar de un largo rato con tu amigo decides volver a tu casa a terminar tus tareas.",
+        "- Lo malo es que pasaste demaciado tiempo fuera y ya no tienes tiempo ni energia para trabajar.",
+        "- ",
+        "- ",
+        "- ",
+        "- "
+    ],
+    "opciones": [
+        {
+            "node": "./jsons/Escena7A.json",
+            "texto":"- Tecla Derecha) Terminar Trabajo."
+        },
+        {
+            "node": "./jsons/Escena7B.json",
+            "texto": "- Tecla Izquierda) Dejar de trabajar y enviar el progreso hecho."
+        }
+    ]
 }

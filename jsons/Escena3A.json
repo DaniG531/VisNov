@@ -1,11 +1,21 @@
 {
-    "inicio":{
-        "imagen": "./imagenes/Glad.jpg", 
-        "texto1": "- Utilizas el tiempo que te sobra del dia para limpiar y ordenar tu cuarto.",
-        "texto2": "- Sientes una gran satisfaccion al haber hecho actividades productivas y haber",
-        "texto3": "- hecho tus tareas y pendientes.",
-        "texto4": "- ",
-        "texto5": "- Tecla Derecha) Ir a dormir y terminar el dia.",
-        "texto6": "- Tecla Izquierda) Salir a la plaza."
-    }
+    "imagen": "./imagenes/Glad.jpg",
+    "textos": [ 
+        "- Utilizas el tiempo que te sobra del dia para limpiar y ordenar tu cuarto.",
+        "- Sientes una gran satisfaccion al haber hecho actividades productivas y haber",
+        "- hecho tus tareas y pendientes.",
+        "- ",
+        "- ",
+        "- "
+    ],
+    "opciones": [
+        {
+            "node": "./jsons/Escena5A.json",
+            "texto":"- Tecla Derecha) Ir a dormir y terminar el dia."
+        },
+        {
+            "node": "./jsons/Escena5B.json",
+            "texto": "- Tecla Izquierda) Salir a la plaza."
+        }
+    ]
 }

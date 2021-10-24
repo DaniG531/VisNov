@@ -1,11 +1,21 @@
 {
-    "inicio":{
-        "imagen": "./imagenes/Friend.jpg", 
-        "texto1": "- Sales a caminar y te encuentras con un amigo en el camino.",
-        "texto2": "- Disfrutan de estar juntos hasta que se hace tarde y anochece.",
-        "texto3": "- Aun debes hacer los deberes pero podrias disfrutar del resto del dia.",
-        "texto4": "- ",
-        "texto5": "- Tecla Derecha) Volver y hacer Deberes.",
-        "texto6": "- Tecla Izquierda) Esperar a la luz de la luna."
-    }
+    "imagen": "./imagenes/Friend.jpg", 
+    "textos": [
+        "- Sales a caminar y te encuentras con un amigo en el camino.",
+        "- Disfrutan de estar juntos hasta que se hace tarde y anochece.",
+        "- Aun debes hacer los deberes pero podrias disfrutar del resto del dia.",
+        "- ",
+        "- ",
+        "- "
+    ],
+    "opciones": [
+        {
+            "node": "./jsons/Escena4A.json",
+            "texto":"- Tecla Derecha) Volver y hacer Deberes."
+        },
+        {
+            "node": "./jsons/Escena4B.json",
+            "texto": "- Tecla Izquierda) Esperar a la luz de la luna."
+        }
+    ]
 }
