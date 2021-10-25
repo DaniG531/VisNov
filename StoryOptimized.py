@@ -24,7 +24,7 @@ while A:
             if event.key == pygame.K_r:
                 data = open("jsons/Menuinicial.json")
                 p = Doc.read()
-                
+                data = json.loads(p)
             if event.key == pygame.K_SPACE:
                 A = False
 
