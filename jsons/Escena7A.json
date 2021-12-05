@@ -1,11 +1,21 @@
 {
-    "inicio":{
-        "imagen": "./imagenes/Sleep.jpg", 
-        "texto1": "- Decides hacer esfuerzo extra y desvelarte haciendo los trabajos y tareas pendientes.",
-        "texto2": "- Logras acabar todo y enviarlo antes del limite, pero quedas increhiblemente exhausto.",
-        "texto3": "- Antes de desmayarte por el cansancio, reflexionas en que debes organizar tus prioridades antes de gastar el tiempo.",
-        "texto4": "- ",
-        "texto5": "- Tecla Derecha) Finalizar Partida.",
-        "texto6": "- Tecla Izquierda) Finalizar Partida."
-    }
+    "imagen": "./imagenes/Sleep.jpg", 
+    "textos": [
+        "- Decides hacer esfuerzo extra y desvelarte haciendo los trabajos y tareas pendientes.",
+        "- Logras acabar todo y enviarlo antes del limite, pero quedas increhiblemente exhausto.",
+        "- Antes de desmayarte por el cansancio, reflexionas en que debes organizar tus prioridades antes de gastar el tiempo.",
+        "- ",
+        "- ",
+        "- "
+    ],
+    "opciones": [
+        {
+            "node": "./jsons/Creditos.json",
+            "texto":"- Tecla Derecha) Finalizar Partida."
+        },
+        {
+            "node": "./jsons/Creditos.json",
+            "texto": "- Tecla Derecha) Finalizar Partida."
+        }
+    ]
 }

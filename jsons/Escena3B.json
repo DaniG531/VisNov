@@ -1,11 +1,21 @@
 {
-    "inicio":{
-        "imagen": "./imagenes/FriendShock.jpg", 
-        "texto1": "- Quedas de verte con una amiga en el museo de insectos.",
-        "texto2": "- Ambos pasan un buen rato pero desafortunadamente llegan muchos mosquitos que les empiezan a picar.",
-        "texto3": "- Ambos entran en shock al saber que nadie trajo repelente. Buscan alternativas para no estar en el museo.",
-        "texto4": "- ",
-        "texto5": "- Tecla Derecha) Ir a la playa.",
-        "texto6": "- Tecla Izquierda) Ir al parque."
-    }
+    "imagen": "./imagenes/FriendShock.jpg", 
+    "textos": [
+        "- Quedas de verte con una amiga en el museo de insectos.",
+        "- Ambos pasan un buen rato pero desafortunadamente llegan muchos mosquitos que les empiezan a picar.",
+        "- Ambos entran en shock al saber que nadie trajo repelente. Buscan alternativas para no estar en el museo.",
+        "- ",
+        "- ",
+        "- "
+    ],
+    "opciones": [
+        {
+            "node": "./jsons/Escena6A.json",
+            "texto":"- Tecla Derecha) Ir a la playa."
+        },
+        {
+            "node": "./jsons/Escena6B.json",
+            "texto": "- Tecla Izquierda) Ir al parque."
+        }
+    ]
 }

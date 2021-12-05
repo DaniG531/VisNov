@@ -1,11 +1,21 @@
 {
-    "inicio":{
-        "imagen": "./imagenes/Gameover.jpg", 
-        "texto1": "- Decides enviar el progreso de lo que llevas de los trabajos tal cual.",
-        "texto2": "- A duras penas consigues pasar con el trabajo incompleto, pero eso no quita que tu calificación no se vea afectada por ello.",
-        "texto3": "- ",
-        "texto4": "- ",
-        "texto5": "- Tecla Derecha) Finalizar Partida.",
-        "texto6": "- Tecla Izquierda) Finalizar Partida."
-    }
+    "imagen": "./imagenes/Gameover.jpg", 
+    "textos": [
+        "- Decides enviar el progreso de lo que llevas de los trabajos tal cual.",
+        "- A duras penas consigues pasar con el trabajo incompleto, pero eso no quita que tu calificación no se vea afectada por ello.",
+        "- ",
+        "- ",
+        "- Tecla Derecha) Finalizar Partida.",
+        "- Tecla Izquierda) Finalizar Partida."
+    ],
+    "opciones": [
+        {
+            "node": "./jsons/Creditos.json",
+            "texto":"- Tecla Derecha) Finalizar Partida."
+        },
+        {
+            "node": "./jsons/Creditos.json",
+            "texto": "- Tecla Derecha) Finalizar Partida."
+        }
+    ]
 }
