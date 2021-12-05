@@ -47,7 +47,7 @@ while Restart:
     E8A = False
     E8B = False
     Credits = False
-
+    
     Doc = open("jsons/MenuInicial.json")
     data = json.load(Doc)
     while StartupMenu:
